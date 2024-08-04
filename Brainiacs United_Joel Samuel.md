@@ -17,15 +17,13 @@ Nicotine addiction perpetuates a cycle of dependence, linked to increased risk o
 ## Solution Overview:
 1. Briefly describe your proposed solution.
 2. Highlight the key features and benefits.
-## Core user scenarios
-* Where can the product be used?
-* Give a high-level description of a few core user scenarios where your product can fit?
-* Who are the intended audience for your solution?
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
 * Detailed EXplanation with images
 ### Software Implementation
 * description of frameworks used
+## Business potential(Shane)
+thhthh ncndrxxfghfghs
 ## Potential Impact:
 * Describe the expected positive outcomes of implementing your idea.
 * Consider social, environmental, or economic impacts.
