@@ -19,11 +19,35 @@ Nicotine addiction perpetuates a cycle of dependence, linked to increased risk o
 2. Highlight the key features and benefits.
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
-* Detailed EXplanation with images
+Our innovative sensor harnesses the power of near-field communication (NFC) to track nicotine exposure in real-time, without the need for batteries. This compact, wearable device uses cutting-edge technology to help individuals to monitor their nicotine levels with very little difficulty.
+![image](https://hackster.imgix.net/uploads/attachments/1383449/image_DjIloh3QwV.png?auto=compress%2Cformat&w=830&h=466.875&fit=min&dpr=1)
+
+**Components:**
+
+1. **Vanadium Dioxide (VO₂) Sensor:** A highly sensitive material that reacts to nicotine, altering its electrical characteristics.
+2. **Amplifier:** Boosts the sensor's signal, ensuring accurate and reliable detection.
+3. **NFC Chip:** Wirelessly transmits data to a smartphone or NFC-capable device, enabling seamless monitoring.
+
+__Technical Advantages:__
+
+- **Battery-Free:** Eliminates the need for battery replacement or recharging.
+- **Real-Time Monitoring:** Provides instantaneous updates on nicotine exposure.
+- **Compact Design:** Wearable device for unobtrusive monitoring.
+- **High Sensitivity:** Accurately detects nicotine levels, even in small concentrations.
+
+__Technical Specifications:__
+
+- **Sensor Material:** Vanadium Dioxide (VO₂)
+- **Sensitivity:** upto 5 meters.
+- **Power Consumption:** Zero (battery-free)
+
+>nicotine can bond covalently to a thin film of VO2. Hence, depending on the nicotine concentration the conductivity of the film changes. The device detects the change in conductivity, amplifies the signal and then transmits it wirelessly to a smartphone.
 ### Software Implementation
 * description of frameworks used
 ## Business potential(Shane)
 thhthh ncndrxxfghfghs
+* Portable nicotine sensors are being developed as an alternative, but the two that have been reported are impractical because they rely either on the presence of sweat or sunlight to function. 
+
 ## Potential Impact:
 * Describe the expected positive outcomes of implementing your idea.
 * Consider social, environmental, or economic impacts.
