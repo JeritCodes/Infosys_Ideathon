@@ -1,5 +1,22 @@
 # Breathe Easy: Revolutionizing Nicotine Exposure Tracking with Wearable Technology
 ## Team Description:
+### Team Lead
+Joel Mathew Samuel
+S3, B.Tech Computer Science and Engineering
+*SAINTGITS COLLEGE OF ENGINEERING*
+
+### Team Members
+Jerit Reji
+S3, B.Tech Computer Science and Engineering
+*SAINTGITS COLLEGE OF ENGINEERING*
+
+Shane Varghese Jacob
+S3, B.Tech Computer Science and Engineering
+*SAINTGITS COLLEGE OF ENGINEERING*
+
+Sreekrishnan M.
+S3, B.Tech Computer Science and Engineering
+*SAINTGITS COLLEGE OF ENGINEERING*
 
 ## Problem Overview:
 "Every breath taken, every life lost" `Nicotine addiction` claims millions of lives worldwide, enslaving individuals in a vicious cycle of craving and relapse. Despite the Dangers the struggle to quit is real:
