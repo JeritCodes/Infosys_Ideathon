@@ -46,7 +46,10 @@ __Technical Specifications:__
 * description of frameworks used
 ## Business potential(Shane)
 
-Portable nicotine sensors are being developed as an alternative, but the two that have been reported are impractical because they rely either on the presence of sweat or sunlight to function. To effectively reach potential users, it is important that we understand specific needs and behaviours of various segments:
+Portable nicotine sensors are being developed as an alternative, but the two that have been reported are impractical because they rely either on the presence of sweat or sunlight to function. 
+
+## Potential Impact:
+To effectively reach potential users, it is important that we understand specific needs and behaviours of various segments:
 
 - **Smokers seeking cessation:** At the front are the frequent smokers themselves who are actively trying to quit. A nicotine sensor can serve as a critical tool in their journey, providing real-time feedback and tracking progress.
 
@@ -57,8 +60,6 @@ Portable nicotine sensors are being developed as an alternative, but the two tha
 - **Public Health Agencies:** Data from widespread use of nicotine sensors can inform public health agencies to enforce appropriate public health policies and regulations.
 
 In consideration of these perspectives, manufacturing and marketing the sensor will not only ensure its advancement in technology but also its compliance with societal health and well being.
-
-## Potential Impact:
 * Describe the expected positive outcomes of implementing your idea.
 * Consider social, environmental, or economic impacts.
 ## Conclusion:
