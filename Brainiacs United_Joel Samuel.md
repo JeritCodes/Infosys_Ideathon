@@ -52,9 +52,16 @@ __Technical Specifications:__
 >nicotine can bond covalently to a thin film of VO2. Hence, depending on the nicotine concentration the conductivity of the film changes. The device detects the change in conductivity, amplifies the signal and then transmits it wirelessly to a smartphone.
 ### Software Implementation
 * description of frameworks used
-## Business potential(Shane)
 
-Portable nicotine sensors are being developed as an alternative, but the two that have been reported are impractical because they rely either on the presence of sweat or sunlight to function. 
+## Beneficiaries:
+
+**Low income families:** Due to the use of advanced technologies in the device, it could potentially have a high initial cost but families with low income can recieve subsidies and grants from the government to cover costs. Further research can develop more cost effective and basic models allowing a widespread usage of the sensor. These factors aid low income families to afford this device as they tend be uneducated on the extreme negative effects of nicotine and could be around areas with potentially high nicotine exposure unknowingly.
+
+**Public Health Market:** It can aid in monitoring and controlling outdoor air quality, particularly in areas where smoking is banned or restricted, ensuring compliance with regulations and promoting healthier environments.
+
+**Industries:** Businesses could use the sensor to maintain smoke-free environments, enhancing employee well-being and potentially reducing healthcare costs.
+
+Portable nicotine sensors are being developed as an alternative, but the two that have been reported are impractical because they rely either on the presence of sweat or sunlight to function.
 
 ## Potential Impact
 Our innovative nicotine sensor has far-reaching potential to positively impact individuals, communities, and society as a whole.
