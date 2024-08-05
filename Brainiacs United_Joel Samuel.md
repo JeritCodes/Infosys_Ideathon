@@ -54,7 +54,7 @@ Portable nicotine sensors are being developed as an alternative, but the two tha
 
 - **Parents/Guardians:** Parents/Guardians concerned about adolescent smoking, can use nicotine sensors as a preventive measure to ensure their children are not exposed to nicotine.
 
-- **Public Health Agencies** Data from widespread use of nicotine sensors can inform public health agencies to enforce appropriate public health policies and regulations.
+- **Public Health Agencies:** Data from widespread use of nicotine sensors can inform public health agencies to enforce appropriate public health policies and regulations.
 
 In consideration of these perspectives, manufacturing and marketing the sensor will not only ensure its advancement in technology but also its compliance with societal health and well being.
 
