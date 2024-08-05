@@ -26,6 +26,7 @@ Introducing **BreatheSafe**, a innovative wearable device designed to revolution
 - It processes real-time data recieved from users and updates over every few minutes.
 - BreatheSafe contains `Vanadium Dioxide` sensors which when exposed to nicotine atmosphere changes the conductivity of the current flowing and this change is equivalent to nicotine concentration
 - The chip then transmits the digitized signal to smartphone through Near-field-Communication(NFC).
+- Then the data is tuned by our ML model to be shown to the users where all are nicotine levels are higher and showing alternate routes. 
 
 2. Highlight the key features and benefits.
 ## How It Works:
