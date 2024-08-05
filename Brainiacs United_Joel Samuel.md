@@ -17,7 +17,9 @@ Nicotine addiction perpetuates a cycle of dependence, linked to increased risk o
 
 #### The absence of effective solutions leaves individuals trapped in a haze of addiction. It's time for innovation to break the cycle of nicotine addiction and create a smoke-free future.
 ## Solution Overview:
-1. Briefly describe your proposed solution.
+Introducing **BreatheSafe**, a innovative wearable device designed to revolutionize the fight against nicotine addiction. By providing real-time monitoring and personalized support, **BreatheSafe** empowers individuals to take control of their journey towards a smoke-free life. This innovative solution addresses the critical gaps in traditional methods, offering a comprehensive approach to overcoming nicotine dependence and promoting long-term health and well-being.
+
+**BreatheSafe** collects data about the nicotine presence around the surrounding and shows the nicotine levels
 2. Highlight the key features and benefits.
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
