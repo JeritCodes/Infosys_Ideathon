@@ -3,28 +3,28 @@
 ### Team Lead
 * <ins>Joel Mathew Samuel</ins>
 
-S3, B.Tech Computer Science and Engineering
+  S3, B.Tech Computer Science and Engineering
 
-*SAINTGITS COLLEGE OF ENGINEERING*
+  *SAINTGITS COLLEGE OF ENGINEERING*
 
 ### Team Members
 * <ins>Jerit Reji</ins>
 
-S3, B.Tech Computer Science and Engineering
+  S3, B.Tech Computer Science and Engineering
 
-*SAINTGITS COLLEGE OF ENGINEERING*
+  *SAINTGITS COLLEGE OF ENGINEERING*
 
 * <ins>Shane Varghese Jacob</ins>
 
-S3, B.Tech Computer Science and Engineering
+  S3, B.Tech Computer Science and Engineering
 
-*SAINTGITS COLLEGE OF ENGINEERING*
+  *SAINTGITS COLLEGE OF ENGINEERING*
 
 * <ins>Sreekrishnan M.</ins>
 
-S3, B.Tech Computer Science and Engineering
+  S3, B.Tech Computer Science and Engineering
 
-*SAINTGITS COLLEGE OF ENGINEERING*
+  *SAINTGITS COLLEGE OF ENGINEERING*
 
 ## Problem Overview:
 "Every breath taken, every life lost" `Nicotine addiction` claims millions of lives worldwide, enslaving individuals in a vicious cycle of craving and relapse. Despite the Dangers the struggle to quit is real:
