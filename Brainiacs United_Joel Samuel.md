@@ -55,9 +55,13 @@ __Technical Specifications:__
 - **Power Consumption:** Zero (battery-free)
 
 >nicotine can bond covalently to a thin film of VO2. Hence, depending on the nicotine concentration the conductivity of the film changes. The device detects the change in conductivity, amplifies the signal and then transmits it wirelessly to a smartphone.
-### Software Implementation
-* description of frameworks used
+### Key Software Components:
 
+1. **Mobile Application:** Developed using React Native, our mobile app enables users to track their nicotine exposure levels, receive alerts, and access personalized insights.
+2. **Data Processing:** Utilizing Python and TensorFlow, our backend processes sensor data, applying machine learning algorithms to detect patterns and trends.
+3. **Cloud Services:** Amazon Web Services (AWS) provides a secure and scalable infrastructure for data storage, processing, and analytics.
+4. **API Integration:** RESTful APIs enable communication between the mobile app, backend, and cloud services, ensuring a cohesive user experience.
+5. **Data Visualization:** Tableau and D3.js libraries are used to create interactive, user-friendly dashboards for data visualization and insights.
 ## Beneficiaries:
 
 ![960f5f2a-029e-4a22-a807-bf512475df6a](https://github.com/user-attachments/assets/1d8abce9-b492-4561-b96c-011f5ffdd43f)
