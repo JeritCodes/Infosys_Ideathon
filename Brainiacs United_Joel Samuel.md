@@ -20,6 +20,7 @@ Nicotine addiction perpetuates a cycle of dependence, linked to increased risk o
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
 Our innovative sensor harnesses the power of near-field communication (NFC) to track nicotine exposure in real-time, without the need for batteries. This compact, wearable device uses cutting-edge technology to help individuals to monitor their nicotine levels with very little difficulty.
+
 ![image](https://hackster.imgix.net/uploads/attachments/1383449/image_DjIloh3QwV.png?auto=compress%2Cformat&w=830&h=466.875&fit=min&dpr=1)
 
 **Components:**
