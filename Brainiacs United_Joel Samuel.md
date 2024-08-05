@@ -78,7 +78,7 @@ Our innovative nicotine sensor has far-reaching potential to positively impact i
 
 By leveraging machine learning algorithms and data from our nicotine sensor, we can:
 
-- Identify areas with high nicotine levels, creating "hotspots" of exposure.
+- Identify areas with high nicotine levels, creating **hotspots** of exposure.
 - Provide users with personalized route suggestions, avoiding high-nicotine areas and promoting healthier walking routes.
 
 >Example: A person going for a walk can wear our device, continuously monitoring nicotine exposure. The data is fed into a machine learning model, which generates a personalized route for their next walk, avoiding areas with high nicotine levels.
