@@ -88,6 +88,8 @@ __Technical Specifications:__
 >nicotine can bond covalently to a thin film of VO2. Hence, depending on the nicotine concentration the conductivity of the film changes. The device detects the change in conductivity, amplifies the signal and then transmits it wirelessly to a smartphone.
 ### Key Software Components:
 
+![Screenshot (45)](https://github.com/user-attachments/assets/4a8d07b3-91f7-432c-be66-be5517088e80)
+
 1. **Mobile Application:** Developed using React Native, our mobile app enables users to track their nicotine exposure levels, receive alerts, and access personalized insights.
 2. **Data Processing:** Utilizing Python and TensorFlow, our backend processes sensor data, applying machine learning algorithms to detect patterns and trends.
 3. **Cloud Services:** Amazon Web Services (AWS) provides a secure and scalable infrastructure for data storage, processing, and analytics.
