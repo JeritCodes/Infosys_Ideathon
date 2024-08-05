@@ -1,4 +1,4 @@
-# Smoke-Free Horizon: Leveraging Innovation to overcome Cigarette Addiction
+# Breathe Easy: Revolutionizing Nicotine Exposure Tracking with Wearable Technology
 ## Problem Overview:
 "Every breath taken, every life lost" `Nicotine addiction` claims millions of lives worldwide, enslaving individuals in a vicious cycle of craving and relapse. Despite the Dangers the struggle to quit is real:
 * **70% of smokers** unable to overcome the grip of nicotine.
