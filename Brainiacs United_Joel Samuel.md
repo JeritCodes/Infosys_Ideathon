@@ -1,21 +1,29 @@
 # Breathe Easy: Revolutionizing Nicotine Exposure Tracking with Wearable Technology
 ## Team Description:
 ### Team Lead
-Joel Mathew Samuel
+* <ins>Joel Mathew Samuel</ins>
+
 S3, B.Tech Computer Science and Engineering
+
 *SAINTGITS COLLEGE OF ENGINEERING*
 
 ### Team Members
-Jerit Reji
+* <ins>Jerit Reji</ins>
+
 S3, B.Tech Computer Science and Engineering
+
 *SAINTGITS COLLEGE OF ENGINEERING*
 
-Shane Varghese Jacob
+* <ins>Shane Varghese Jacob</ins>
+
 S3, B.Tech Computer Science and Engineering
+
 *SAINTGITS COLLEGE OF ENGINEERING*
 
-Sreekrishnan M.
+* <ins>Sreekrishnan M.</ins>
+
 S3, B.Tech Computer Science and Engineering
+
 *SAINTGITS COLLEGE OF ENGINEERING*
 
 ## Problem Overview:
