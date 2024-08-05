@@ -58,6 +58,8 @@ __Technical Specifications:__
 
 ## Beneficiaries:
 
+![960f5f2a-029e-4a22-a807-bf512475df6a](https://github.com/user-attachments/assets/1d8abce9-b492-4561-b96c-011f5ffdd43f)
+
 **Low income families:** Due to the use of advanced technologies in the device, it could potentially have a high initial cost but families with low income can recieve subsidies and grants from the government to cover costs. Further research can develop more cost effective and basic models allowing a widespread usage of the sensor. These factors aid low income families to afford this device as they tend be uneducated on the extreme negative effects of nicotine and could be around areas with potentially high nicotine exposure unknowingly.
 
 **Public Health Market:** It can aid in monitoring and controlling outdoor air quality, particularly in areas where smoking is banned or restricted, ensuring compliance with regulations and promoting healthier environments.
