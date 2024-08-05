@@ -48,10 +48,10 @@ __Technical Specifications:__
 thhthh ncndrxxfghfghs
 * Portable nicotine sensors are being developed as an alternative, but the two that have been reported are impractical because they rely either on the presence of sweat or sunlight to function.
 * To effectively reach potential users, it is important that we understand specific needs and behaviours of various segments:
--**Smokers seeking cessation:** At the front are the frequent smokers themselves who are actively trying to quit. A nicotine sensor can serve as a critical tool in their journey, providing real-time feedback and tracking progress.
--**Healthcare Professionals:** Doctors and cessation specialists can make use of the data from nicotine sensors to adjust and make effective smoking cessation programs for their patients. The data from the sensor helps healthcare professionals in understanding the patterns and triggers of nicotine cravings, so they can offer more personalized support when appropriate.
--**Parents/Guardians:** Parents/Guardians concerned about adolescent smoking, can use nicotine sensors as a preventive measure to ensure their children are not exposed to nicotine.
--**Public Health Agencies** Data from widespread use of nicotine sensors can inform public health agencies to enforce appropriate public health policies and regulations.
+- **Smokers seeking cessation:** At the front are the frequent smokers themselves who are actively trying to quit. A nicotine sensor can serve as a critical tool in their journey, providing real-time feedback and tracking progress.
+- **Healthcare Professionals:** Doctors and cessation specialists can make use of the data from nicotine sensors to adjust and make effective smoking cessation programs for their patients. The data from the sensor helps healthcare professionals in understanding the patterns and triggers of nicotine cravings, so they can offer more personalized support when appropriate.
+- **Parents/Guardians:** Parents/Guardians concerned about adolescent smoking, can use nicotine sensors as a preventive measure to ensure their children are not exposed to nicotine.
+- **Public Health Agencies** Data from widespread use of nicotine sensors can inform public health agencies to enforce appropriate public health policies and regulations.
 * In consideration of these perspectives, manufacturing and marketing the sensor will not only ensure its advancement in technology but also its compliance with societal health and well being.
 ## Potential Impact:
 * Describe the expected positive outcomes of implementing your idea.
