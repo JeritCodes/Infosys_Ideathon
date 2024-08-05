@@ -1,4 +1,6 @@
 # Breathe Easy: Revolutionizing Nicotine Exposure Tracking with Wearable Technology
+## Team Description:
+
 ## Problem Overview:
 "Every breath taken, every life lost" `Nicotine addiction` claims millions of lives worldwide, enslaving individuals in a vicious cycle of craving and relapse. Despite the Dangers the struggle to quit is real:
 * **70% of smokers** unable to overcome the grip of nicotine.
