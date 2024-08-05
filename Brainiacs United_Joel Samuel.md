@@ -28,7 +28,8 @@ Introducing **BreatheSafe**, a innovative wearable device designed to revolution
 - The chip then transmits the digitized signal to smartphone through Near-field-Communication(NFC).
 - Then the data is tuned by our ML model to be shown to the users where all are nicotine levels are higher and showing alternate routes. 
 
-2. Highlight the key features and benefits.
+### Features of **BreatheSafe**
+
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
 Our innovative sensor harnesses the power of near-field communication (NFC) to track nicotine exposure in real-time, without the need for batteries. This compact, wearable device uses cutting-edge technology to help individuals to monitor their nicotine levels with very little difficulty.
