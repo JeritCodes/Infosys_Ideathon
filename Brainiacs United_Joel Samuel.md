@@ -31,8 +31,8 @@
 * **70% of smokers** unable to overcome the grip of nicotine.
 * **The absence of real-time monitoring** and personalized support hinders the journey to a smoke-free life.
 ### Healthcare Burden
-Smoking causes people to have many chronic illness such **<u>Lung cancer</u>**,**<u> Heart disease</u>** and  <u>**chronic obstructive pulmonary disease (COPD)</u>**.
-Smoking kills ariund 8 million people each year, with an estimated 1.3 million non-smokers who are exposed to `second-hand smoke`.
+Smoking causes people to have many chronic illnesses such **<u>Lung cancer</u>**,**<u> Heart disease</u>** and  <u>**chronic obstructive pulmonary disease (COPD)</u>**.
+Smoking kills around 8 million people each year, with an estimated 1.3 million non-smokers who are exposed to `second-hand smoke`.
 ### Social and Family Issues
 Second-hand smoke exposure affects non-smokers, especially children, while smoking-related illnesses strain family relationships.
 ### Economic Consequences
@@ -44,25 +44,25 @@ Nicotine addiction perpetuates a cycle of dependence, linked to increased risk o
 
 ## Solution Overview:
 ### BreatheSafe
-Introducing **BreatheSafe**, a innovative wearable device designed to revolutionize the fight against nicotine addiction. By providing real-time monitoring and personalized support, **BreatheSafe** empowers individuals to take control of their journey towards a smoke-free life. This innovative solution addresses the critical gaps in traditional methods, offering a comprehensive approach to overcoming nicotine dependence and promoting long-term health and well-being.
+Introducing **BreatheSafe**, an innovative wearable device designed to revolutionize the fight against nicotine addiction. By providing real-time monitoring and personalized support, **BreatheSafe** empowers individuals to take control of their journey towards a smoke-free life. This innovative solution addresses the critical gaps in traditional methods, offering a comprehensive approach to overcoming nicotine dependence and promoting long-term health and well-being.
 
-**BreatheSafe** collects data about the nicotine presence around the surrounding and shows areas where the nicotine levels are higher.
+**BreatheSafe** collects data about the nicotine presence around the surroundings and shows areas where the nicotine levels are higher.
 
-- It processes real-time data recieved from users and updates over every few minutes.
-- BreatheSafe contains `Vanadium Dioxide` sensors which when exposed to nicotine atmosphere changes the conductivity of the current flowing and this change is equivalent to nicotine concentration
-- The chip then transmits the digitized signal to smartphone through Near-field-Communication(NFC).
+- It processes real-time data received from users and updates over every few minutes.
+- BreatheSafe contains `Vanadium Dioxide` sensors which when exposed to a nicotine atmosphere change the conductivity of the current flowing and this change is equivalent to nicotine concentration
+- The chip then transmits the digitized signal to a smartphone through Near-field-Communication(NFC).
 - Then the data is tuned by our ML model to be shown to the users where all are nicotine levels are higher and showing alternate routes.
 
 ### Features of **BreatheSafe**
 
-- It uses nicotine to detect tobacco exporsure and it is a prominent ingredient in tobacco products which can be measured in sweat.
+- It uses nicotine to detect tobacco exposure and it is a prominent ingredient in tobacco products which can be measured in sweat.
 - BreatheSafe is `portable` and easy to wear.
-- Provides continous monitoring of nicotine levels.
-- The results can be viewed directly through a smartphone .
+- Provides continuous monitoring of nicotine levels.
+- The results can be viewed directly through a smartphone.
 
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
-Our innovative sensor harnesses the power of near-field communication (NFC) to track nicotine exposure in real-time, without the need for batteries. This compact, wearable device uses cutting-edge technology to help individuals to monitor their nicotine levels with very little difficulty.
+Our innovative sensor harnesses the power of near-field communication (NFC) to track nicotine exposure in real time, without the need for batteries. This compact, wearable device uses cutting-edge technology to help individuals monitor their nicotine levels with minimal difficulty.
 
 ![image](https://hackster.imgix.net/uploads/attachments/1383449/image_DjIloh3QwV.png?auto=compress%2Cformat&w=830&h=466.875&fit=min&dpr=1)
 
@@ -85,7 +85,7 @@ __Technical Specifications:__
 - **Sensitivity:** upto 5 meters.
 - **Power Consumption:** Zero (battery-free)
 
->nicotine can bond covalently to a thin film of VO2. Hence, depending on the nicotine concentration the conductivity of the film changes. The device detects the change in conductivity, amplifies the signal and then transmits it wirelessly to a smartphone.
+> Nicotine can bond covalently to a thin film of VO2. Hence, depending on the nicotine concentration the conductivity of the film changes. The device detects the change in conductivity, amplifies the signal, and then transmits it wirelessly to a smartphone.
 ### Key Software Components:
 
 ![Screenshot (45)](https://github.com/user-attachments/assets/4a8d07b3-91f7-432c-be66-be5517088e80)
@@ -99,7 +99,7 @@ __Technical Specifications:__
 
 ![960f5f2a-029e-4a22-a807-bf512475df6a](https://github.com/user-attachments/assets/1d8abce9-b492-4561-b96c-011f5ffdd43f)
 
-**Low income families:** Due to the use of advanced technologies in the device, it could potentially have a high initial cost but families with low income can recieve subsidies and grants from the government to cover costs. Further research can develop more cost effective and basic models allowing a widespread usage of the sensor. These factors aid low income families to afford this device as they tend be uneducated on the extreme negative effects of nicotine and could be around areas with potentially high nicotine exposure unknowingly.
+**Low-income families:** Due to the use of advanced technologies in the device, it could potentially have a high initial cost but families with low income can receive subsidies and grants from the government to cover costs. Further research can develop more cost-effective and basic models allowing a widespread usage of the sensor. These factors aid low-income families to afford this device as they tend to be uneducated on the extremely negative effects of nicotine and could be around areas with potentially high nicotine exposure unknowingly.
 
 **Public Health Market:** It can aid in monitoring and controlling outdoor air quality, particularly in areas where smoking is banned or restricted, ensuring compliance with regulations and promoting healthier environments.
 
@@ -126,7 +126,7 @@ Our innovative nicotine sensor has far-reaching potential to positively impact i
 
 - Decreased healthcare costs associated with smoking-caused diseases.
 - Increased productivity and reduced absenteeism, benefiting the economy.
-- Potential reduction in smoking related costs.
+- Potential reduction in smoking-related costs.
 
 ### Environmental Impact:
 
