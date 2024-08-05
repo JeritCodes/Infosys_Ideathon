@@ -23,6 +23,9 @@ Introducing **BreatheSafe**, a innovative wearable device designed to revolution
 
 **BreatheSafe** collects data about the nicotine presence around the surrounding and shows areas where the nicotine levels are higher.
 
+- It processes real-time data recieved from users and updates over every few minutes.
+- BreatheSafe contains `Vanadium Dioxide` sensors which when exposed to nicotine atmosphere changes the conductivity of the current flowing and this change is equivalent to nicotine concentration
+
 2. Highlight the key features and benefits.
 ## How It Works:
 ### Wearable, Battery-Free Nicotine Sensor Can Monitor Your Exposure to Smoke and Vape Mist
